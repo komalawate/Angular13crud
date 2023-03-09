@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "tomato",
+      "category": "vegetables",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": "abcd",
+      "date": "2023-03-06T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Apple",
+      "category": "fruits",
+      "freshness": "Brand new",
+      "price": 200,
+      "comment": "apple",
+      "date": "2023-03-12T18:30:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
